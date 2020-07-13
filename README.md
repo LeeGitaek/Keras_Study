@@ -1,7 +1,7 @@
 # Keras_Study
 Deep Learning using Keras 
 
-### tensor
+### Tensor
 
 - Vector : samples, features => 2D tensor
 - Time Series, Sequence Data : samples, timesteps, features => 3D tensor
