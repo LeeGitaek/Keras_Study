@@ -2,7 +2,7 @@
 Deep Learning using Keras 
 
 ### tensor
-=======================
+
 - Vector : samples, features => 2D tensor
 - Time Series, Sequence Data : samples, timesteps, features => 3D tensor
 - Image : (samples, height, width, channels) or (samples, channels, height, width) => 4D tensor
